@@ -22,3 +22,21 @@ a.special {
 
   display: block; /*hidden, inline, ...*/
 }
+
+.input-container {
+  position: relative;
+  background-color: blue;
+}
+
+.info-container {
+  position: absolute;
+  top: 0;
+  right: 0;
+  background: yellow;
+  color: red;
+  font-size: 10px;
+}
+
+.messages-container {
+  padding-bottom: 282px;
+}
