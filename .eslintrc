@@ -5,7 +5,8 @@
   "extends": ["airbnb-base", "plugin:prettier/recommended"],
   "rules": {
     "lines-between-class-members": "off",
-    "no-restricted-syntax": "off"
+    "no-restricted-syntax": "off",
+    "no-await-in-loop": "off"
   },
   "env": {
     "browser": true,
