@@ -1,5 +1,6 @@
 import $ from "jquery";
 import "bootstrap";
+import "./js/forum";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./css/style.css";
 import mainContent from "./html/exercices/forum.html";
